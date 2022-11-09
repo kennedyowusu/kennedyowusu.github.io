@@ -319,11 +319,6 @@ ul.skill > li {
   display: block;
 }
 
-#first-work-image > img:hover {
-  box-shadow: 10px 10px 5px #d3d3d3;
-  transition: box-shadow 0.5s ease-in-out;
-}
-
 .first-work-details {
   width: 100%;
   margin: 0;
@@ -333,45 +328,20 @@ ul.skill > li {
   background-image: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url("./images/works/sec-image.png");
 }
 
-#third-work:hover {
-  box-shadow: 10px 10px 5px lightgrey;
-  transition: box-shadow 0.5s ease-in-out;
-}
-
 #fourth-work {
   background-image: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url("./images/works/third-image.png");
-}
-
-#fourth-work:hover {
-  box-shadow: 10px 10px 5px lightgrey;
-  transition: box-shadow 0.5s ease-in-out;
 }
 
 #fifth-work {
   background-image: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url("./images/works/four-image.png");
 }
 
-#fifth-work:hover {
-  box-shadow: 10px 10px 5px lightgrey;
-  transition: box-shadow 0.5s ease-in-out;
-}
-
 #sixth-work {
   background-image: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url("./images/works/sec-image.png");
 }
 
-#sixth-work:hover {
-  box-shadow: 10px 10px 5px lightgrey;
-  transition: box-shadow 0.5s ease-in-out;
-}
-
 #seventh-work {
   background-image: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url("./images/works/third-image.png");
-}
-
-#seventh-work:hover {
-  box-shadow: 10px 10px 5px lightgrey;
-  transition: box-shadow 0.5s ease-in-out;
 }
 
 .work-title-here {
